@@ -1,0 +1,2 @@
+# japanese_font_subset_list
+サブセット用の日本語リスト
